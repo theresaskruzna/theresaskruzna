@@ -1,7 +1,7 @@
 # Hi, I'm Theresa 👋
 🙋‍♀️ a 30something year old who decided to go from working with children and teens into tech<br/>
 👩‍🏫 currently studying a Data Science course and looking for internship opportunities<br/>
-👩‍💻 blogging my experience (among other things) at<br/>
+👩‍💻 blogging my experience (among other things) at https://medium.com/career-pivots-and-python<br/>
 
 ## 💻 Tech Stack
 
