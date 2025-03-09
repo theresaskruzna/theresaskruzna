@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hi, I'm Theresa 👋
 
+🙋‍♀️ a 30something year old who decided to go from working with children and teens into tech
+
+👩‍🏫 currently studying a Data Science course and looking for internship opportunities
+
+👩‍💻 blogging my experience (among other things) at 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theresaskruzna&theme=jolly&show_icons=true)
 <!--
 **theresaskruzna/theresaskruzna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
